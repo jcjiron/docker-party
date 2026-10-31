@@ -1,0 +1,4 @@
+---
+application_name: clojure-web-hello-world
+team_name: hjacobs
+exposed_ports: [8080]

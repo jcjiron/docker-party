@@ -1,0 +1,5 @@
+.git
+wp-config-sample.php
+.dockerignore
+Dockerfile
+docker-compose.yml
